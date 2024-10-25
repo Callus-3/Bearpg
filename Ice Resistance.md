@@ -1,0 +1,1 @@
+Reduces incoming ice damage by 1% per level
